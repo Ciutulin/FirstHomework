@@ -10,3 +10,5 @@ git clone https://github.com/Ciuulin/FirstHomework.git
 
 git config --local user.emailc"danielaciutulin@gmail.com"
 git config --local user.name"Ciuulin"
+
+practising
